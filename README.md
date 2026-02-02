@@ -15,9 +15,9 @@ Building cloud infrastructure, automation pipelines, and container orchestration
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ozgurmazlum&theme=default&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ozgurmazlum&color=blue&style=flat)
 
 ## 📫 Connect
 
