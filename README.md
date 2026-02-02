@@ -1,10 +1,10 @@
-# Merhaba, ben Özgür 👋
+# Hi, I'm Özgür 👋
 
 **DevOps & Cloud Engineer**
 
-Bulut altyapıları, otomasyon ve container orkestrasyon üzerine çalışıyorum.
+Building cloud infrastructure, automation pipelines, and container orchestration solutions.
 
-## 🛠 Teknolojiler
+## 🛠 Tech Stack
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -15,10 +15,10 @@ Bulut altyapıları, otomasyon ve container orkestrasyon üzerine çalışıyoru
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozgurmazlum&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ozgurmazlum&theme=default&hide_border=true)
 
-## 📫 İletişim
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgurmazlum)
